@@ -1,0 +1,12 @@
+D:\Sena2021\Trimetre1\Clases\Eje06\Eje06\bin\Debug\netcoreapp3.1\Eje06.exe
+D:\Sena2021\Trimetre1\Clases\Eje06\Eje06\bin\Debug\netcoreapp3.1\Eje06.deps.json
+D:\Sena2021\Trimetre1\Clases\Eje06\Eje06\bin\Debug\netcoreapp3.1\Eje06.runtimeconfig.json
+D:\Sena2021\Trimetre1\Clases\Eje06\Eje06\bin\Debug\netcoreapp3.1\Eje06.runtimeconfig.dev.json
+D:\Sena2021\Trimetre1\Clases\Eje06\Eje06\bin\Debug\netcoreapp3.1\Eje06.dll
+D:\Sena2021\Trimetre1\Clases\Eje06\Eje06\bin\Debug\netcoreapp3.1\Eje06.pdb
+D:\Sena2021\Trimetre1\Clases\Eje06\Eje06\obj\Debug\netcoreapp3.1\Eje06.AssemblyInfoInputs.cache
+D:\Sena2021\Trimetre1\Clases\Eje06\Eje06\obj\Debug\netcoreapp3.1\Eje06.AssemblyInfo.cs
+D:\Sena2021\Trimetre1\Clases\Eje06\Eje06\obj\Debug\netcoreapp3.1\Eje06.csproj.CoreCompileInputs.cache
+D:\Sena2021\Trimetre1\Clases\Eje06\Eje06\obj\Debug\netcoreapp3.1\Eje06.dll
+D:\Sena2021\Trimetre1\Clases\Eje06\Eje06\obj\Debug\netcoreapp3.1\Eje06.pdb
+D:\Sena2021\Trimetre1\Clases\Eje06\Eje06\obj\Debug\netcoreapp3.1\Eje06.genruntimeconfig.cache
